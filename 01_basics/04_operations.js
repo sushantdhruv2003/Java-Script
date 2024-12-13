@@ -11,3 +11,6 @@ console.log(1 + 2 + "2"); // 32
 let ans = 100;
 ans++
 console.log(ans) // 101
+
+console.log(true) // true
+console.log(+true) // 1
